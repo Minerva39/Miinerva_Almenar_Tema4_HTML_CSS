@@ -234,3 +234,14 @@ img {
         display: block !important;
     }
 }
+
+/* Footer background */
+footer {
+  background: rgb(196, 226, 253);
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
